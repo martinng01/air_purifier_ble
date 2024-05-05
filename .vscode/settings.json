@@ -1,0 +1,17 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.adapterTargetName": "esp32s3",
+  "idf.flashType": "UART",
+  "idf.portWin": "COM4",
+  "idf.openOcdConfigs": [
+    "interface/ftdi/esp32_devkitj_v1.cfg",
+    "target/esp32s3.cfg"
+  ],
+  "files.associations": {
+    "freertosconfig.h": "c",
+    "ble_hs.h": "c",
+    "task.h": "c",
+    "queue.h": "c",
+    "timers.h": "c"
+  }
+}
